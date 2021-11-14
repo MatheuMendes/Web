@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(88, 170, 34);
+   }
+.ovo {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1px;
+    background-color: rgb(26, 87, 7);
+    color: rgb(255, 255, 255);
+    text-align: center;
+ }
+ .container {
+    display: flex; /* ou inline-flex */
+    margin: 20px auto;
+    max-width: 500px;
+
+}
+ .centro {
+     text-align: center;
+ }
